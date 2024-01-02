@@ -1,0 +1,11 @@
+#title {
+    color: brown; 
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 4rem;
+}
+#temperature_list {
+    color: crimson;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: bisque;
+
+}
